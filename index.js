@@ -1,1 +1,6 @@
-// Write your solution in this file!
+ function(){
+    var customerName = bob
+    return customerName
+ }
+ 
+ 
